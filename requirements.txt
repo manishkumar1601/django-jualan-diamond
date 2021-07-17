@@ -1,0 +1,8 @@
+django
+requests
+gunicorn
+whitenoise
+pyTelegramBotAPI
+djongo
+dnspython
+sqlparse==0.2.4
